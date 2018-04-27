@@ -1,0 +1,58 @@
+emmet
+
+nav>ul>li tab
+
+<nav>
+    <ul>
+        <li></li>
+    </ul>
+</nav>
+
+
+
+div+p+bq tab
+
+<div></div>
+<p></p>
+<blockquote></blockquote>
+
+
+
+ul>li*3 tab
+
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+
+a{click me} tab
+
+<a href="">click me</a>
+
+
+p{text} tab
+
+<p>text</p>
+
+
+ul>li.item$$$*3 tab
+
+<ul>
+    <li class="item001"></li>
+    <li class="item002"></li>
+    <li class="item003"></li>
+</ul>
+
+
+
+lorem tab
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae iste commodi impedit blanditiis laborum dolorem mollitia voluptas similique, aut nam temporibus? Quos ab, sed dolorem labore ducimus saepe ea illum.
+
+
+**to select multiple cursors: 
+
+hold down alt key and click them, then you can type enter to move all those cursors down one line
+

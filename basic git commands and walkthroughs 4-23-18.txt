@@ -1,0 +1,78 @@
+Terminal Essentials
+basic commands:
+
+pwd
+cd
+cd /
+cd ../
+ls
+ls -la (show files incl hidden and rights)
+clear
+rm file-name
+rm -rf dir-name (remove recursively with force)
+mkdir dir-name (create a folder)
+cat file-name (prints out contents of a file)
+
+
+Creating a “Master” Local Git Repository (on your PC):
+
+Create a folder
+Add a .gitignore file
+At the terminal:
+git init
+git status
+git add --all (to stage files)
+git commit -m “first commit”
+git log
+
+
+Creating an “Origin/Master” Remote Github Repository (on Github website):
+
+Create a new repo
+name it the same as the folder name of your local git repo
+Not required, but logical
+copy / paste instructions
+navigate to the root of your local git repo
+copy / paste the code given to you - one line at a time - into the terminal
+Your code will look something like this:
+git remote add origin git@github.com:GoesToEleven/webdog.git
+git push -u origin master
+master vs origin/master
+The “master” branch
+“origin/master” means “the master branch on the origin”, the source from which 
+everyone is contributing
+git push
+
+
+Description:
+We use github to create a remote github repository. There are many ways to do 
+this. I am going to show you what I believe is the simplest, and best, method.
+
+
+
+**Using Github - Basic Commands
+**Here are the basic github commands which you will use 98% of the time:
+git status
+git add --all
+git commit -m “some concise descriptive message”
+git push
+Description:
+As we code, we will want to “push” our code and store it remotely on github. 
+This will keep track of all of the code we are writing. To do this, we follow 
+a few simple commands: git status, git add --all, git commit -m “some message”
+, git push.
+
+
+
+
+Using Github - Deleting A Repo
+Delete locally
+Delete remote origin on github (go to repo and settings and go to bottom of 
+webpage)
+
+Copy github repo to your local pc:
+git clone url-of-repo
+(this copies the repo is a new folder within the folder you are in and this 
+is a master branch with hidden git file and is tracked by git, you don't have 
+to run git init)
+

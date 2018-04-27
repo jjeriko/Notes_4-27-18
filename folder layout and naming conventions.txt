@@ -1,0 +1,20 @@
+File naming:
+
+main css file should be main.css
+a-z (all lowecase), 0-9
+no spaces
+can use underscores or dashes
+
+Folder naming:
+
+a-z (lowercase),0-9
+
+Typical files for a website:
+
+folder css
+folder img
+folder js
+folder pic
+contact.html
+index.html
+services.html

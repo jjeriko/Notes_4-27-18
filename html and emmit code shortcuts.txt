@@ -1,0 +1,29 @@
+paragraph tag:
+
+p tab, creates <p></p>
+
+(added lorem extension to vscode, just type lorem tab to enter a paragram of lorem text)
+
+lorem tab, creates a paragraph of lorem text
+
+(added extension to vscode to preview your website within vscode)
+
+
+right click on code area then "format document" to organize code
+
+h1+h2+h3+h4 tab, creates all the h tags
+
+ol>li*5 
+ul>li*5 tab, creates five list items <ul><li></li><li></li> etc.
+**figure out how to type in text in first li then jump to next li and enter text etc.
+check keyboard shortcuts for vscode or emmet or michigan video
+
+body>div tab, creates <body><div></div></body>
+
+div.test tab, creates <div class="test"></div>
+
+div#test tab, creates <div id="test2"></div>
+
+Emmet cheat sheet:
+https://docs.emmet.io/cheat-sheet/
+https://www.youtube.com/watch?v=7lntv8lYJbA
