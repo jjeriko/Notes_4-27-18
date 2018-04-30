@@ -1,0 +1,49 @@
+image:
+
+img tab
+
+<img src="" alt="">   (ctrl + spacebar to find your image when cursor is in quotes for img src)
+
+
+anchor element to make hyperlink:
+
+ex: a{go to google} tab
+
+<a href="http://www.google.com" target="_blank">go to google</a>
+
+(target="_blank" to open link in new tab)
+
+
+unordered and ordered list emmet:
+
+ul>li*10 tab
+
+ol>li*10 tab
+
+ul>li*10{$$}
+
+
+**Setup a local testing server for your website:
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+
+
+**Website tutorial from Mozilla (see overview at bottom of website):
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software
+
+
+All html elements:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+
+CSS selectors:
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+CSS reference:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+

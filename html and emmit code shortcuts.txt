@@ -24,6 +24,9 @@ div.test tab, creates <div class="test"></div>
 
 div#test tab, creates <div id="test2"></div>
 
-Emmet cheat sheet:
+***Emmet cheat sheet:
 https://docs.emmet.io/cheat-sheet/
 https://www.youtube.com/watch?v=7lntv8lYJbA
+
+**Webstorm keycodes:
+https://resources.jetbrains.com/storage/products/webstorm/docs/WebStorm_ReferenceCard.pdf

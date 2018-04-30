@@ -56,3 +56,28 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae iste commodi im
 
 hold down alt key and click them, then you can type enter to move all those cursors down one line
 
+to copy a line:
+
+ctrl d
+
+to delete a line:
+
+ctrl y
+
+to edit with multiple cursors:
+
+alt j (then keep doing alt j to select more of the same part your highlighted, to edit all at once)
+
+
+to create a border around an image, ex:
+
+<img src="puppy.jpg">
+<img src="puppy.jpg" class="dogone">
+
+
+img {
+    border: 30px groove orangered;
+}
+.dogone {
+    border: 10px dashed orangered;
+}
